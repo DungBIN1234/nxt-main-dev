@@ -1,4 +1,13 @@
+<div align=center>
+ 
+# 🚀 NXT_DEV: Release v1 - Free DDoS  🚀
 
+# Info
+- [x] Open Source
+- [x] Powerful
+- [x] Simple
+- [x] Methods for Layer 4 and 7
+- [x] Bypass (Cloudflare, OVH, NFO,...) 
 
 # TOS:
 ```sh
