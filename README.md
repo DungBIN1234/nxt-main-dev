@@ -1,3 +1,18 @@
+
+
+# TOS:
+```sh
+Do not attack government pages (.gov/.gob), educational pages (.edu) or the United States Department of Defense (.mil), 
+the creator is not responsible for the damage caused by the attacks. 
+I Make Tools For Entertainment Purpose Only, I will not be held responsible for what you did!
+```
+
+# CONTACT:
+```sh
+Facebook : https://www.facebook.com/NgXuanTruong.Profile.Immortal/
+Zalo : 0564731627
+```
+
 # Credits
 ```sh
 nxt_dev (Reworked CnC and added some methods .-.)
